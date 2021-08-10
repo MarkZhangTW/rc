@@ -1,6 +1,6 @@
 # rc
 ```bash=
-curl https://github.com/markzhang1996/rc/raw/main/.inputrc >> ~/.inputrc
-curl https://github.com/markzhang1996/rc/raw/main/.tmux.conf >> ~/.tmux.conf
-curl https://github.com/markzhang1996/rc/raw/main/.vimrc >> ~/.vimrc
+curl https://raw.githubusercontent.com/markzhang1996/rc/main/.inputrc >> ~/.inputrc
+curl https://raw.githubusercontent.com/markzhang1996/rc/main/.tmux.conf >> ~/.tmux.conf
+curl https://raw.githubusercontent.com/markzhang1996/rc/main/.vimrc >> ~/.vimrc
 ```
